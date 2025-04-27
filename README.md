@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full MERN Stack Development<br>🌱 I’m currently learning Natural Language Processing<br>💬 Ask me about React,Javascript,Express.js <br>
+🔭 I’m currently working on Full MERN Stack Development<br>🌱 I’m currently learning Natural Language Processing<br>Actively Working on Leetcode & DSA <br> 💬 Ask me about React,Javascript,Express.js <br>
 
 
 ## 🌐 Socials:
