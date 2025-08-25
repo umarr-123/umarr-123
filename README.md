@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umar-123&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/umar-123?label=Followers&style=for-the-badge&color=6366f1" alt="GitHub Followers" />
+ 
 </p>
 
 </div>
