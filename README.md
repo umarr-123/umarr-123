@@ -1,48 +1,59 @@
 <div align="center">
 
-<!-- Animated Header -->
+# 👋 Hi, I'm Umar  
+### 🚀 Full Stack Developer | 🧩 Problem Solver | 💡 Tech Explorer  
 
-
-# 👋 Welcome to My Digital Universe!
-
-<div id="typing-animation">
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Code+Architect+%F0%9F%8F%97%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
-  </h3>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umar-123&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
- 
-</p>
+---
+## 🎯 About Me  
+
+Hi, I’m **Umar** – a passionate **Full Stack Developer** from Faisalabad 🇵🇰.  
+I love turning complex problems into simple, beautiful, and scalable solutions.  
+
+- 🌱 Currently learning **Cloud & DevOps (AWS, Docker, CI/CD)**  
+- ⚡ Building **scalable web apps** with modern frameworks  
+- 💡 Exploring **AI tools** & new technologies  
+- 🎯 Goal: To contribute to impactful open-source projects  
+- 😄 Fun fact: I debug with `console.log()` more than I should!  
+
+
+---
+
+## 🛠 Tech Stack  
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarr-123&show_icons=true&theme=gruvbox" alt="stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarr-123&layout=compact&langs_count=8&theme=gruvbox" alt="langs" height="180em"/>
-</p>
+## 📊 GitHub Status  
 
+<div align="center">
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umarr-123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=umarr-123&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umarr-123&theme=tokyonight&hide_border=true" height="180em" />
+<br/>
 
+</div>
 
-## 🎯 About Me
-
-<img align="right" alt="Coding GIF" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="400" />
-
-```javascript
-const developer = {
-    name: "Umar",
-    role: "Full Stack Developer",
-    location: "Faisalabad",
-    languages: ["JavaScript", "Python", "TypeScript", "Java"],
-    frameworks: ["React", "Node.js", "Next.js", "Django"],
-    databases: ["MongoDB", "PostgreSQL", "Redis"],
-    tools: ["Docker", "AWS", "Git", "Linux"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-
+---
